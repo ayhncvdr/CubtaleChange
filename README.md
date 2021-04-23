@@ -1,16 +1,9 @@
-# cubtale
+# Cubtale Challenge
 
-A new Flutter application.
+![1](https://user-images.githubusercontent.com/73463728/115893810-49b03600-a461-11eb-879f-d62bffc5c073.PNG)
+![2](https://user-images.githubusercontent.com/73463728/115893826-4d43bd00-a461-11eb-909a-f94ee9fbe9fc.PNG)
+![3](https://user-images.githubusercontent.com/73463728/115893831-4fa61700-a461-11eb-8c02-eb9c09622cc2.PNG)
+![4](https://user-images.githubusercontent.com/73463728/115893848-516fda80-a461-11eb-84e3-e3fa5cd3c1e8.PNG)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
